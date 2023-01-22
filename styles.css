@@ -15,8 +15,7 @@ body {
     display: flex;
     justify-content: space-around;
     width: 400px;
-    margin-right: auto;
-    margin-left: auto;
+    margin: auto;
     text-align: center;
     color: #2b2839;
     background-color: #ddebf8;
