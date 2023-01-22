@@ -1,6 +1,7 @@
 body {
     margin: 20px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow:  -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 .avatar {
     width: 150px;
@@ -17,12 +18,12 @@ body {
     width: 400px;
     margin: 0 auto;
     text-align: center;
-    color: #2b2839;
-    background-color: #ddebf8;
-    border-top: 8px solid #d8cefe;
-    border-bottom: 8px solid #d8cefe;
-    border-right: 8px solid #360be6;
-    border-left: 8px solid #360be6;
+    color: #ff8c61;
+    background-color: #9c95dc;
+    border-top: 8px solid #f4ebbe;
+    border-bottom: 8px solid #0b7189;
+    border-right: 8px solid #0a19a3;
+    border-left: 8px solid #ff86c1;
 }
 
 .blue-border {
