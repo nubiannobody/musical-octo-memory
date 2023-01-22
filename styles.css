@@ -5,6 +5,8 @@ body {
 .avatar {
     width: 150px;
     transform: rotate(90deg);
+    margin: 20px 0 20px 0;
+
 }
 
 .card {
