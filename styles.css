@@ -12,6 +12,7 @@ body {
 .card {
     border: 4px dotted blue;
     padding: 20px;
+    display: flex;
 }
 /*
 Challenge:
