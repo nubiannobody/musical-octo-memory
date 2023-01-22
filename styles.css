@@ -17,7 +17,9 @@ body {
     margin-left: auto;
     text-align: center;
     color: #2b2839;
-    
+    background-color: #ddebf8;
+    border-bottom: 8px solid #d8cefe;
+
 }
 
 .blue-border {
