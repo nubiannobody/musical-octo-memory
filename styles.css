@@ -3,6 +3,6 @@ body {
 }
 
 .picture {
-    width: 100px;
+    width: 150px;
     transform: rotate(90deg);
 }
