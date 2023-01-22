@@ -4,4 +4,5 @@ body {
 
 .picture {
     width: 100px;
+    transform: rotate(90deg);
 }
