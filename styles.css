@@ -1,7 +1,6 @@
 body {
     margin: 20px;
 }
-
 .avatar {
     width: 150px;
     transform: rotate(90deg);
@@ -10,8 +9,10 @@ body {
 }
 
 .card {
-    border: 4px dotted blue;
     padding: 20px;
     display: flex;
 }
-  
+
+.blue-border {
+    border: 4px dotted blue;
+}
